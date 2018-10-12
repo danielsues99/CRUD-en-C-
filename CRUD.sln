@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelo", "Modelo\Modelo.csproj", "{AA9945E2-B3A5-40F6-B5A6-960AACA6A4E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controlador", "Controlador\Controlador.csproj", "{2AE0FA83-193C-4A51-A9C1-FB553D7AD3F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vista", "Vista1\Vista.csproj", "{379DC22C-79BE-41B4-82CB-C3E14286E295}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA9945E2-B3A5-40F6-B5A6-960AACA6A4E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA9945E2-B3A5-40F6-B5A6-960AACA6A4E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA9945E2-B3A5-40F6-B5A6-960AACA6A4E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA9945E2-B3A5-40F6-B5A6-960AACA6A4E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AE0FA83-193C-4A51-A9C1-FB553D7AD3F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AE0FA83-193C-4A51-A9C1-FB553D7AD3F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AE0FA83-193C-4A51-A9C1-FB553D7AD3F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AE0FA83-193C-4A51-A9C1-FB553D7AD3F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{379DC22C-79BE-41B4-82CB-C3E14286E295}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{379DC22C-79BE-41B4-82CB-C3E14286E295}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{379DC22C-79BE-41B4-82CB-C3E14286E295}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{379DC22C-79BE-41B4-82CB-C3E14286E295}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2806ACC-D02A-4A3E-BCB6-460034485800}
+	EndGlobalSection
+EndGlobal
